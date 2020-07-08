@@ -1,0 +1,5 @@
+C:\Users\leidy\Documents\Employees\Employees\EmployeesDT\bin\Debug\EmployeesDT.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesDT\bin\Debug\EmployeesDT.pdb
+C:\Users\leidy\Documents\Employees\Employees\EmployeesDT\obj\Debug\EmployeesDT.csproj.CoreCompileInputs.cache
+C:\Users\leidy\Documents\Employees\Employees\EmployeesDT\obj\Debug\EmployeesDT.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesDT\obj\Debug\EmployeesDT.pdb

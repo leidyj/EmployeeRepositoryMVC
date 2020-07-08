@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="col-md-12">
+    <div class="card-header col-md-12 row">
+            <h5 id="titlePage"><b>EMPLOYEES INFORMATION</b></h5>
+    </div>
+    <div class="card-body col-md-12 row">
+
+        <div class="col-md-12 containerEmpleoyee">
+            <div class="col-md-2">
+                <label class="lblId">Id</label>
+                <input class="form-control" type="text" id="txtId" maxlength="10" onkeypress="OnlyNumbers(event)"/>
+            </div>
+            <div class="col-md-2">
+                <div class="input-group">
+                    <div id="dialog"></div>
+                    <button class="btn btn-info" id="BtnGetEmployees" onclick="GetEmployees()"><h6><span class="fa fa-plus-square-o"></span>Get Employees</h6></button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <br />
+    <div class="col-md-12 row">
+
+        <div id="gridEmployees" style="width:100%">
+
+        </div>
+    </div>
+</div>
+<style>
+    .lblId {
+        margin-top: 5.8%;
+    }
+
+    #BtnGetEmployees {
+        margin-top: 29%;
+        height: 35px;
+    }
+
+    h6 {
+        margin-top: 5px;
+    }
+
+    .containerEmpleoyee {
+        margin-bottom: 4%;
+    }
+
+    #titlePage {
+        text-align:center;
+    }
+</style>
+<script src="~/Scripts/Views/Home/Home.js"></script>

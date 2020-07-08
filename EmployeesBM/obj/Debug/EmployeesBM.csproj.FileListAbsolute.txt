@@ -1,0 +1,16 @@
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesBM.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesBM.pdb
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesAD.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesDT.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\Spring.Rest.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesAD.pdb
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\EmployeesDT.pdb
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\Spring.Rest.pdb
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\Spring.Rest.xml
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\obj\Debug\EmployeesBM.csprojAssemblyReference.cache
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\obj\Debug\EmployeesBM.csproj.CoreCompileInputs.cache
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\obj\Debug\EmployeesBM.csproj.CopyComplete
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\obj\Debug\EmployeesBM.dll
+C:\Users\leidy\Documents\Employees\Employees\EmployeesBM\obj\Debug\EmployeesBM.pdb
